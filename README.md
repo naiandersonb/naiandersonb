@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Naianderson Bruno
-🌱 I am currently learning Java, HTML and CSS
+🌱 I am currently learning *Java, HTML and CSS*
