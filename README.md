@@ -11,7 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Naianderson Bruno
-- 🌱 I am currently learning Java, HTML and CSS
-- 📫 How to contact me:
-- [!
+# Naianderson Bruno
+🌱 I am currently learning Java, HTML and CSS
