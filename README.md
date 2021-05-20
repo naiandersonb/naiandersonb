@@ -11,5 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Naianderson Bruno
-🌱 I am currently learning **Java, HTML and CSS**
+# Olá 👋, eu sou o Naianderson Bruno!
+- 👨🏻‍💻 Sou apaixonado por **programação e UX Design**
+- 🌱 I am currently learning **Java, HTML and CSS**
+- 📗 Atualmente estou cursando **Desenvolvimento de Sistemas**
+
+## Tecnologias: 
+- **Java, HTML & CSS**
