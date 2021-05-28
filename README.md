@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 # Olá 👋, eu sou o Naianderson Bruno!
 - 👨🏻‍💻 Sou apaixonado por **programação**
-- 🌱 Estudando **Java, HTML and CSS**
+- 🌱 Estudando **Java, HTML e CSS**
 - 📗 Atualmente estou cursando **Desenvolvimento de Sistemas**
 
 ## Tecnologias: 
