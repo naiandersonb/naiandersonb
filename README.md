@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Olá 👋, eu sou o Naianderson Bruno!
-- 👨🏻‍💻 Sou apaixonado por **programação e UX Design**
-- 🌱 I am currently learning **Java, HTML and CSS**
+- 👨🏻‍💻 Sou apaixonado por **programação**
+- 🌱 Estudando **Java, HTML and CSS**
 - 📗 Atualmente estou cursando **Desenvolvimento de Sistemas**
 
 ## Tecnologias: 
