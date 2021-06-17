@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Olá 👋, eu sou o Naianderson Bruno!
-- 👨🏻‍💻 Sou apaixonado por **programação**
-- 🌱 Estudando **Java, HTML e CSS**
-- 📗 Atualmente estou cursando **Desenvolvimento de Sistemas**
+
+- 🌱 I’m currently learning **Java, C# e javaScript**
+- 📗 Attending **System Development**
 
 ## Tecnologias: 
 - **Java, HTML & CSS**
