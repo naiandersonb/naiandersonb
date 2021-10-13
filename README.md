@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p align="left"> 
   Olá, eu me chamo Naianderson Bruno,  <strong>entusiasta do desvonvimento web e paixonado por UI/UX Design</strong>.
   <br>
+  <br>
   Atualmente sou freelancer e estou aprofundando meus conhecimentos em <strong>JavaScrip, node.js e vue.js</strong>.
 </p>
 
