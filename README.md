@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu me chamo Naianderson Bruno,  <strong>entusiasta do desvonvimento web e paixonado por UI/UX Design</strong>.
+  Olá, eu me chamo Naianderson Bruno,  <strong>entusiasta do desvonvimento web</strong>.
   <br>
   <br>
   Atualmente sou freelancer e estou aprofundando meus conhecimentos em <strong>JavaScrip, node.js e React.js</strong>.
