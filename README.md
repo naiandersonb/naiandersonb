@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Olá, eu me chamo Naianderson Bruno,  <strong>entusiasta do desvonvimento web e paixonado por UI/UX Design</strong>.
   <br>
   <br>
-  Atualmente sou freelancer e estou aprofundando meus conhecimentos em <strong>JavaScrip, node.js e vue.js</strong>.
+  Atualmente sou freelancer e estou aprofundando meus conhecimentos em <strong>JavaScrip, node.js e React.js</strong>.
 </p>
 
 <p align="left">
