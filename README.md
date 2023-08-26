@@ -1,2 +1,2 @@
-<!-- <h1 align="center">Hi 👋, I'm Naianderson Bruno</h1> -->
-<h1>Hi 👋, I'm Naianderson Bruno</h1>
+Olá, eu me chamo **Naianderson Bruno**, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na [TheMembers](https://site.themembers.com.br/) como Frontend Developer Pleno ⚡
+
